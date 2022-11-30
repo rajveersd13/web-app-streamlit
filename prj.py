@@ -1,4 +1,3 @@
-prj
 import streamlit as st
 st.title(' TDS GA 8')
 st.subheader('odd even checking  App')
