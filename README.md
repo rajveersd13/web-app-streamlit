@@ -1,2 +1,2 @@
-#  Odd Even checkin app using streamlit library of python
+#  Odd Even checking app using streamlit library of python
 
